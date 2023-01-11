@@ -1,4 +1,5 @@
 # 🏋🏽 T-FTINESS TRAINNING - ACADEMIA
+
 ## 🌐 Aplicativo Web
 Site desenvolvido durante o estágio do curso Técnico de Informática na T-Fitness Academia.
 
