@@ -17,3 +17,11 @@ O objetivo do site é auxiliar os alunos da academia a realizarem os seus exerc�
 ### 🖱 Disponível em
 
 https://tfitnessacademia.netlify.app/
+
+
+### 💻 Captura de tela
+
+<img src="https://github.com/tiagoothome/TfitnessAcademia/assets/102389691/a92fbf83-b451-4649-884d-eb933aa5c01f.png" width="300px" />
+<img src="https://github.com/tiagoothome/TfitnessAcademia/assets/102389691/79286593-67ed-4418-8dca-437e724bd821.png" width="300px" />
+<img src="https://github.com/tiagoothome/TfitnessAcademia/assets/102389691/cfa58348-3b92-4a5b-bc3a-47169cc4b3b0.png" width="300px" />
+
