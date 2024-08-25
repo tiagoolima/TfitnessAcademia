@@ -55,7 +55,7 @@
 - JavaScript.
 
 ## :globe_with_meridians: Disponível em 
-https://tfitnessacademia.netlify.app/
+https://tfitnessacademia.netlify.app
 
 ## Licença
 The [MIT License]() (MIT)
